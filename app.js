@@ -38,3 +38,9 @@ calculateMultiply(a,b)
 // console.log(obj.x);
 calSum(a,b)
 
+const data =require("./data.json");
+console.log(data);
+
+// util acess
+
+const util = require("node:util")
